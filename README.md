@@ -24,16 +24,16 @@ For more examples see the `examples/` directory.
 
 # Origin
 
-This library was created as part of the video for [Working With TCP Sockets](http://workingwithtcpsockets.com). The code itself is open source, the video explains the design decisions and walks through the design of the project, and Ruby's IO in general.
+This library was created as part of the video for [Working With TCP Sockets](http://workingwithtcpsockets.com). 
 
 # Prior Art
 
-Sprout is not an innovative project. It borrows a lot of ideas from other evented systems.
+Sprout borrows a lot of ideas from other evented systems.
 
-* https://gist.github.com/3612925
-* https://github.com/oldmoe/reactor
-* EventMachine
-* node.js
+* <https://gist.github.com/3612925>
+* [Reactor](https://github.com/oldmoe/reactor)
+* [EventMachine](http://rubyeventmachine.com/)
+* [node.js](http://nodejs.org/)
 
 # License
 
